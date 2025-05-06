@@ -1,5 +1,5 @@
-<h2 align="left">
-### Hi 👋! My name is Abdul-Aziz  <br>I'm a Python developer and engineering student from Ghana.  <br><br>- 🔭 I’m currently working on: a full-featured Django-based social media/blog web app  <br>- 🌱 I’m currently learning: Docker, PostgreSQL, and deployment best practices  <br>- 👯 I’m looking to collaborate on: impactful open-source or web development projects  <br>- 💬 Ask me about: Django, REST APIs, and clean backend architecture  <br>- 📫 How to reach me: azizmeltzer@gmail.com  <br>- ⚡ Fun fact: I enjoy building things that feel real and scalable.</h2>
+<h3 align="left">
+### Hi 👋! My name is Abdul-Aziz  <br>I'm a Python developer and engineering student from Ghana.  <br><br>- 🔭 I’m currently working on: a full-featured Django-based social media/blog web app  <br>- 🌱 I’m currently learning: Docker, PostgreSQL, and deployment best practices  <br>- 👯 I’m looking to collaborate on: impactful open-source or web development projects  <br>- 💬 Ask me about: Django, REST APIs, and clean backend architecture  <br>- 📫 How to reach me: azizmeltzer@gmail.com  <br>- ⚡ Fun fact: I enjoy building things that feel real and scalable.</h3>
 
 ###
 
